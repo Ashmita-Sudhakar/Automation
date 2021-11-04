@@ -23,7 +23,7 @@ def take_snapshot():
 
 
 def upload_file(img_name):
-    access_token = "riFu6Ybhc9AAAAAAAAAALaZlr0KQZp4W5yPr5fRlLudO7HyuxSz5BpczxsAwjvTN"
+    access_token = "sl.A7Ejdo65aNsg1x-0cwLBKNxD0cvA_Ykr8Fj-mBERL2l2c07PeKTsnsnFCAXMSO2mYKeSTQTHsXYIvD9hsrec7TDi3z0ZMuL7velpAg2F13nR4ejXUZGwKUPUsmfeStG9MZKqkDo"
     file =img_name
     file_from = file
     file_to="/testFolder/"+(img_name)
